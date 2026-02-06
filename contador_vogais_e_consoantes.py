@@ -49,4 +49,6 @@ erase_button.pack(side=tk.RIGHT, padx=10)
 label_result = tk.Label(window, text="", bg="#9D57BB", fg="#FFFFFF", font=("Georgia", 16))
 label_result.pack(pady=15) 
 
+#teste 
+
 window.mainloop() 
